@@ -1,0 +1,38 @@
+{
+  "cli": {
+    "version": ">= 3.4.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios": {
+        "resourceClass": "m-medium"
+      },
+      "channel": "development",
+      "env": { "ChatAPI": "ChatAPI", "ChatVoiceAPI": "ChatVoiceAPI" }
+    },
+    "preview": {
+      "distribution": "internal",
+      "ios": {
+        "resourceClass": "m-medium"
+      },
+      "channel": "preview",
+      "env": { "ChatAPI": "ChatAPI", "ChatVoiceAPI": "ChatVoiceAPI" }
+    },
+    "production": {
+      "ios": {
+        "resourceClass": "m-medium"
+      },
+      "channel": "production",
+      "env": { "ChatAPI": "ChatAPI", "ChatVoiceAPI": "ChatVoiceAPI" }
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "ascAppId": "Add your App Store Connect App ID here"
+      }
+    }
+  }
+}

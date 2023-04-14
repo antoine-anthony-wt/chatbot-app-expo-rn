@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="375px" preserveAspectRatio="none" style="width:1181px;height:375px;" version="1.1" viewBox="0 0 1181 375" width="1181px" zoomAndPan="magnify"><defs/><g><!--MD5=[a6f11bb19cee6b13000111f5ad685e8b]
+cluster Dependencies--><path d="M25,281 L127,281 A4.5,4.5 0 0 1 130,284 L137,300.9688 L1166,300.9688 A3,3 0 0 1 1169,303.9688 L1169,360 A3,3 0 0 1 1166,363 L25,363 A3,3 0 0 1 22,360 L22,284 A3,3 0 0 1 25,281 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="22" x2="137" y1="300.9688" y2="300.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="102" x="26" y="294.1387">Dependencies</text><!--MD5=[d33087227d343432d1c14d83a7aec168]
+entity @react-native-async-storage--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="203" x="212.5" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="207.5" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="207.5" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="183" x="222.5" y="334.1387">@react-native-async-storage</text><!--MD5=[e6693dc45d0b269b7d67af37a19db9c1]
+entity @react-navigation--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="134" x="951" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="946" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="946" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="114" x="961" y="334.1387">@react-navigation</text><!--MD5=[92c76255242b65bb2780cba28222c775]
+entity axios--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="53" x="145.5" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="140.5" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="140.5" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="33" x="155.5" y="334.1387">axios</text><!--MD5=[cb3d66c929489a99ecf6c8633ae21583]
+entity react--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="53" x="1099.5" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="1094.5" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="1094.5" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="33" x="1109.5" y="334.1387">react</text><!--MD5=[328c2a785caa0a44134f33124fdd352e]
+entity react-native--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="96" x="841" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="836" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="836" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="76" x="851" y="334.1387">react-native</text><!--MD5=[21d99c4f80b1e65a8932f9b5da63b706]
+entity react-native-gifted-chat--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="169" x="429.5" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="424.5" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="424.5" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="149" x="439.5" y="334.1387">react-native-gifted-chat</text><!--MD5=[f657157002eb94fb5b3268ed799bfe9f]
+entity react-native-safe-area-context--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="214" x="613" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="608" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="608" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="194" x="623" y="334.1387">react-native-safe-area-context</text><!--MD5=[01147cc59fe3259cedcb3e2a9f8f11a9]
+entity react-query--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #383838; stroke-width: 1.0;" width="93" x="38.5" y="313"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="33.5" y="318"/><rect fill="#F8F8F8" height="5" style="stroke: #383838; stroke-width: 1.0;" width="10" x="33.5" y="336.9688"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="73" x="48.5" y="334.1387">react-query</text><ellipse cx="686.0919" cy="22.3774" fill="#F8F8F8" rx="22.0919" ry="12.8774" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="27" x="672.5919" y="25.8618">App</text><ellipse cx="781.9608" cy="22.3922" fill="#F8F8F8" rx="59.9608" ry="14.3922" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="736.9608" y="25.8765">babel.config</text><ellipse cx="706.9619" cy="133.8774" fill="#F8F8F8" rx="48.9619" ry="12.8774" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="65" x="674.4619" y="137.3618">ChatRoom</text><ellipse cx="828.8944" cy="134.0789" fill="#F8F8F8" rx="58.3944" ry="14.0789" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="86" x="785.8944" y="137.5633">ChatRoomList</text><!--MD5=[5d6132675fb976f817a0a579cf0f7afe]
+entity _ChatRoomsState--><rect fill="#F8F8F8" height="33.9688" rx="3" ry="3" style="stroke: #000000; stroke-width: 0.5;" width="126" x="542" y="175"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="106" x="552" y="196.1387">ChatRoomsState</text><ellipse cx="767.8567" cy="78.4713" fill="#F8F8F8" rx="60.3567" ry="14.4713" style="stroke: #383838; stroke-width: 0.5;"/><text fill="#000000" font-family="Tahoma, sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="91" x="722.3567" y="81.9557">RootNavigator</text><!--MD5=[2eed6c8efe8b57ec9dbb2354ba2e62ac]
+link <b>App</b> to _ChatRoomsState--><path d="M676.917,34.669 C663.298,51.947 637.626,86.653 623,120 C615.949,136.076 611.268,155.46 608.452,169.91 " fill="none" id="&lt;b&gt;App&lt;/b&gt;-&gt;_ChatRoomsState" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="607.498,174.995,613.0881,166.8863,608.4194,170.0806,605.2251,165.412,607.498,174.995" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[2d6876da7f13d1c91a7a834afcdf3218]
+link <b>App</b> to react--><path d="M702.004,31.701 C706.163,33.623 710.688,35.535 715,37 C767.17,54.73 782.322,51.56 836,64 C963.803,93.62 1123,1.81 1123,133 C1123,133 1123,133 1123,237 C1123,261.248 1124.05,289.0723 1124.91,307.7148 " fill="none" id="&lt;b&gt;App&lt;/b&gt;-&gt;react" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="1125.15,312.7189,1128.7223,303.5407,1124.9148,307.7244,1120.7311,303.917,1125.15,312.7189" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[c170f87dd371fa0801d50c48e99e9daf]
+link <b>App</b> to react-query--><path d="M664.375,25.185 C558.292,33.731 98,74.202 98,133 C98,133 98,133 98,237 C98,261.476 93.433,289.258 89.7128,307.8282 " fill="none" id="&lt;b&gt;App&lt;/b&gt;-&gt;react-query" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="88.6905,312.8113,94.4177,304.7988,89.6954,307.9133,86.5809,303.191,88.6905,312.8113" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[3e5e9f54da636e0ab1063685aa0a1522]
+link <b>App</b> to RootNavigator--><path d="M699.91,32.66 C712.002,40.623 729.783,52.333 744.143,61.789 " fill="none" id="&lt;b&gt;App&lt;/b&gt;-&gt;RootNavigator" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="#000000" points="748.479,64.645,743.1613,56.3551,744.3028,61.8956,738.7623,63.0371,748.479,64.645" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[1d357fff684de8f3703a6b80876e137d]
+link ChatRoom to _ChatRoomsState--><path d="M686.848,146.064 C673.156,153.581 654.713,163.707 638.8,172.443 " fill="none" id="ChatRoom-&gt;_ChatRoomsState" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="634.385,174.867,644.1993,174.0429,638.7681,172.4611,640.3499,167.0299,634.385,174.867" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[0c2fa8ba8b60edd0da3e0b2cb21e0cd2]
+link ChatRoom to react--><path d="M735.611,144.67 C822.36,174.065 1077.41,261.086 1092,273 C1103.43,282.3345 1112.01,296.5958 1117.69,308.3901 " fill="none" id="ChatRoom-&gt;react" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="1119.8,312.9392,1119.6496,303.0915,1117.6998,308.4017,1112.3896,306.4519,1119.8,312.9392" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f6cd3f14e5e4fae5b450bf839eb05242]
+link ChatRoom to react-native-gifted-chat--><path d="M703.904,147.034 C699.462,162.577 690.109,189.898 675,209 C655.542,233.6 583.892,282.906 543.036,310.0319 " fill="none" id="ChatRoom-&gt;react-native-gifted-chat" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="538.697,312.9064,548.4091,311.2706,542.8653,310.145,543.9909,304.6013,538.697,312.9064" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[69c59e73e3b9dd8b521174701717964f]
+link ChatRoom to react-native-safe-area-context--><path d="M707.813,147.136 C709.968,179.288 715.844,266.984 718.573,307.7021 " fill="none" id="ChatRoom-&gt;react-native-safe-area-context" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="718.921,312.8932,722.31,303.6458,718.5866,307.9044,714.328,304.1809,718.921,312.8932" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[22ee84271e90213da99f10e93b1508b6]
+link ChatRoom to react-query--><path d="M671.72,143.058 C636.928,151.039 582.254,163.673 535,175 C358.265,217.362 295.04,181.522 138,273 C122.62,281.9592 108.918,296.7194 99.3008,308.8374 " fill="none" id="ChatRoom-&gt;react-query" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="96.1993,312.8335,104.8773,308.176,99.2649,308.8835,98.5573,303.2711,96.1993,312.8335" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f888d88d183d6c626b71a4b617125a85]
+link ChatRoomList to @react-navigation--><path d="M835.638,148.26 C849.149,174.042 882.223,231.345 925,265 C932.201,270.665 936.063,268.422 944,273 C962.37,283.5953 981.412,298.0994 995.579,309.6919 " fill="none" id="ChatRoomList-&gt;@react-navigation" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="999.441,312.8787,995.0458,304.065,995.5847,309.6961,989.9536,310.235,999.441,312.8787" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[864717e6a9ae7ec8534d86465cd43049]
+link ChatRoomList to _ChatRoomsState--><path d="M790.493,144.627 C758.41,152.648 711.922,164.27 673.512,173.872 " fill="none" id="ChatRoomList-&gt;_ChatRoomsState" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="668.389,175.153,678.09,176.8534,673.24,173.9417,676.1518,169.0918,668.389,175.153" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[2e9c2d9539b9eefc43b50ebd6eddd5fa]
+link ChatRoomList to react--><path d="M866.166,144.812 C889.925,151.754 921.038,162.109 947,175 C1010.93,206.742 1020.75,225.204 1080,265 C1085.32,268.574 1087.56,268.373 1092,273 C1101.85,283.274 1110.19,296.8829 1116.15,308.1123 " fill="none" id="ChatRoomList-&gt;react" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="1118.55,312.7626,1117.9709,302.9308,1116.2541,308.3209,1110.8641,306.6041,1118.55,312.7626" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[db39681d1d4c784682b0549877016483]
+link ChatRoomList to react-native--><path d="M829.467,148.342 C830.674,172.379 834.954,224.251 850,265 C855.74,280.5455 865.422,296.4636 873.702,308.5359 " fill="none" id="ChatRoomList-&gt;react-native" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="876.679,312.8018,874.8079,303.1323,873.8173,308.7018,868.2478,307.7111,876.679,312.8018" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[ced9579a46604e5ed26988376155083b]
+link ChatRoomList to react-native-safe-area-context--><path d="M821.679,148.03 C803.148,181.011 754.261,268.022 731.706,308.1654 " fill="none" id="ChatRoomList-&gt;react-native-safe-area-context" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="729.09,312.8219,736.9852,306.9341,731.5388,308.4626,730.0103,303.0161,729.09,312.8219" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[66110e0f6616c008513eaf86f3d1b015]
+link _ChatRoomsState to @react-native-async-storage--><path d="M580.519,209.052 C554.091,225.625 510.229,250.982 469,265 C448.939,271.821 442.09,266.265 422,273 C394.331,282.2762 365.068,297.8525 343.992,310.2259 " fill="none" id="_ChatRoomsState-&gt;@react-native-async-storage" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="339.622,312.8143,349.404,311.6684,343.9238,310.2658,345.3263,304.7856,339.622,312.8143" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[f0ae2bdf826ba57518b22c02aadb4877]
+link _ChatRoomsState to axios--><path d="M541.839,205.294 C429.991,227.111 208.45,270.548 205,273 C192.9,281.5987 184.522,296.1458 179.236,308.2583 " fill="none" id="_ChatRoomsState-&gt;axios" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="177.293,312.9335,184.441,306.1581,179.2121,308.3165,177.0537,303.0875,177.293,312.9335" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[89e47b9080468565fdea68c66c691d80]
+link _ChatRoomsState to react--><path d="M662.262,209.046 C725.871,226.126 831.891,252.392 925,265 C943.409,267.493 1076.03,263.505 1092,273 C1105.03,280.7498 1113.71,295.613 1119.04,308.0801 " fill="none" id="_ChatRoomsState-&gt;react" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="1120.98,312.896,1121.3114,303.0527,1119.1042,308.2612,1113.8957,306.054,1120.98,312.896" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[d5ce5b993b80a09305b8705deaa71708]
+link _ChatRoomsState to react-native-gifted-chat--><path d="M594.204,209.135 C577.579,233.98 545.737,281.5682 527.575,308.7117 " fill="none" id="_ChatRoomsState-&gt;react-native-gifted-chat" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="524.782,312.8859,533.1113,307.6302,527.5625,308.7303,526.4624,303.1815,524.782,312.8859" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[8aa15fb1c78e199019cca9865acbebb9]
+link RootNavigator to @react-navigation--><path d="M827.642,81.076 C901.306,86.567 1017,108.347 1017,191 C1017,191 1017,191 1017,237 C1017,261.237 1017.35,289.063 1017.64,307.7091 " fill="none" id="RootNavigator-&gt;@react-navigation" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="1017.72,312.7142,1021.5778,303.6524,1017.6413,307.7148,1013.5788,303.7783,1017.72,312.7142" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[814b2ca9e38ac36bbb31a89fc3ff9243]
+link RootNavigator to ChatRoom--><path d="M752.921,92.725 C744.311,100.277 733.474,109.781 724.491,117.659 " fill="none" id="RootNavigator-&gt;ChatRoom" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="720.248,121.381,729.6521,118.4547,724.0073,118.0844,724.3776,112.4397,720.248,121.381" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[81856cc8823e484885f4c4c85f92d452]
+link RootNavigator to ChatRoomList--><path d="M783.079,92.725 C791.326,99.958 801.614,108.981 810.361,116.652 " fill="none" id="RootNavigator-&gt;ChatRoomList" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="814.515,120.296,810.3854,111.3547,810.7557,116.9994,805.1109,117.3697,814.515,120.296" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[37384c363a96109b5b566dad061d7c8c]
+link RootNavigator to _ChatRoomsState--><path d="M722.072,87.953 C698.957,93.953 671.558,103.893 651,120 C634.131,133.216 621.548,154.431 613.846,170.234 " fill="none" id="RootNavigator-&gt;_ChatRoomsState" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="611.612,174.949,619.0793,168.5272,613.7521,170.4302,611.8492,165.103,611.612,174.949" style="stroke: #000000; stroke-width: 0.5;"/><!--MD5=[014c0a6853b1dadaf005a0b3a39d7a42]
+link RootNavigator to react--><path d="M827.013,81.897 C875.325,85.687 944.503,95.37 1000,120 C1046.89,140.809 1091,139.702 1091,191 C1091,191 1091,191 1091,237 C1091,262.836 1103.21,290.2439 1113.2,308.3555 " fill="none" id="RootNavigator-&gt;react" style="stroke: #000000; stroke-width: 0.5;"/><polygon fill="#000000" points="1115.69,312.7533,1114.7489,302.9495,1113.232,308.3992,1107.7823,306.8823,1115.69,312.7533" style="stroke: #000000; stroke-width: 0.5;"/><script type="text/plantuml"><![CDATA[MD5=[ce6d762f34c97d7138af9b3a5e5786bb]
+@startuml
+
+scale max 1920 width
+top to bottom direction
+
+skinparam nodesep 14
+skinparam ranksep 27
+skinparam monochrome true
+skinparam shadowing false
+skinparam defaultFontName Tahoma
+skinparam defaultFontSize 12
+skinparam roundCorner 6
+skinparam dpi 150
+skinparam arrowColor black
+skinparam arrowThickness 0.5
+skinparam packageTitleAlignment left
+
+skinparam usecase {
+  borderThickness 0.5
+}
+
+skinparam rectangle {
+  borderThickness 0.5
+}
+
+skinparam component {
+  borderThickness 1
+}
+
+
+(<b>App</b>)
+(<b>babel.config</b>)
+(ChatRoom)
+(ChatRoomList)
+rectangle "ChatRoomsState" as _ChatRoomsState
+(RootNavigator)
+
+package "Dependencies" {
+  [@react-native-async-storage]
+  [@react-navigation]
+  [axios]
+  [react]
+  [react-native]
+  [react-native-gifted-chat]
+  [react-native-safe-area-context]
+  [react-query]
+}
+
+(<b>App</b>) --[thickness=1]> _ChatRoomsState
+(<b>App</b>) --[thickness=1]> [react]
+(<b>App</b>) --[thickness=1]> [react-query]
+(<b>App</b>) --[thickness=1]> (RootNavigator)
+(ChatRoom) --> _ChatRoomsState
+(ChatRoom) ----> [react]
+(ChatRoom) ----> [react-native-gifted-chat]
+(ChatRoom) ----> [react-native-safe-area-context]
+(ChatRoom) ----> [react-query]
+(ChatRoomList) ----> [@react-navigation]
+(ChatRoomList) --> _ChatRoomsState
+(ChatRoomList) ----> [react]
+(ChatRoomList) ----> [react-native]
+(ChatRoomList) ----> [react-native-safe-area-context]
+_ChatRoomsState ----> [@react-native-async-storage]
+_ChatRoomsState ----> [axios]
+_ChatRoomsState ----> [react]
+_ChatRoomsState ----> [react-native-gifted-chat]
+(RootNavigator) ----> [@react-navigation]
+(RootNavigator) --> (ChatRoom)
+(RootNavigator) --> (ChatRoomList)
+(RootNavigator) --> _ChatRoomsState
+(RootNavigator) ----> [react]
+
+@enduml
+
+
+' View and edit on https://arkit.pro
+]]></script></g></svg>

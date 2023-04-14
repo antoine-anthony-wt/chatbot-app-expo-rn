@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "chatbot-app",
+    "slug": "chatbot-app",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "sdkVersion": "48.0.0",
+    "plugins": [
+      [
+        "expo-updates",
+        {
+          "username": "Add your expo username here"
+        }
+      ],
+      ["expo-av"]
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "Add your bundle identifier here",
+      "buildNumber": "7"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff",
+        "versionCode": 7
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "Add your eas project id here"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "Add your expo updates url here"
+    }
+  }
+}
