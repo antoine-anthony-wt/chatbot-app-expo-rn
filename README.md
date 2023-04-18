@@ -51,7 +51,7 @@ https://github.com/antoine-anthony-wt/ChatBotAzureFunction-text-voice
 
 ## Building and Deploying
 
-To build and submit the app for iOS and Android:
+To build and submit the app for iOS (Android coming soon), you can use the `eas` CLI tool. This tool is a wrapper around the Expo CLI and allows you to build and submit your app to the App Store.:
 
 1.  Configure the `eas.json` file with your Expo account details.
 2.  Update the `app.json` file with your app-specific settings.
@@ -61,11 +61,10 @@ To build and submit the app for iOS and Android:
     `eas update --branch [branch] --message [message]`
 
     Example:
-    `eas update --branch preview --message "Updating the app"`
-5.  Build and submit the app to the App Store and Google Play Store:
+    `eas update --branch production --message "Updating the app"`
+5.  Build and submit the app to the App Store:
 
-`yarn eas:submit:ios
-yarn eas:submit:android`
+`yarn eas:submit:ios`
 
 ## Troubleshooting
 
