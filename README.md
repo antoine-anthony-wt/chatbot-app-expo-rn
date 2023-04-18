@@ -49,6 +49,10 @@ Replace the placeholders with your actual API URLs:
 `ChatAPI="https://your-chat-api-url.com"
 ChatVoiceAPI="https://your-chat-voice-api-url.com"`
 
+For the API URLs, you can use the following repositories:
+
+https://github.com/antoine-anthony-wt/ChatBotAzureFunction-text-voice
+
 Building and Deploying
 ----------------------
 
