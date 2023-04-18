@@ -13,19 +13,13 @@ Installation
 
 1.  Clone the repository:
 
-bashCopy code
-
-`git clone https://github.com/your-repo/chatbot-app.git`
+`git clone https://github.com/antoine-anthony-wt/chatbot-app-expo-rn.git`
 
 1.  Change to the project directory:
-
-bashCopy code
 
 `cd chatbot-app`
 
 1.  Install dependencies:
-
-bashCopy code
 
 `yarn install`
 
@@ -48,13 +42,9 @@ Environment Variables
 
 The app uses environment variables to configure different API endpoints. Set up your environment variables in the `.env` file by copying the example file:
 
-bashCopy code
-
 `cp example.env .env`
 
 Replace the placeholders with your actual API URLs:
-
-makefileCopy code
 
 `ChatAPI="https://your-chat-api-url.com"
 ChatVoiceAPI="https://your-chat-voice-api-url.com"`
@@ -68,8 +58,6 @@ To build and submit the app for iOS and Android:
 2.  Update the `app.json` file with your app-specific settings.
 3.  Build and submit the app to the App Store and Google Play Store:
 
-bashCopy code
-
 `yarn eas:submit:ios
 yarn eas:submit:android`
 
@@ -79,8 +67,6 @@ Troubleshooting
 If you encounter any issues, try the following:
 
 -   Nuke the `node_modules` directory and reinstall dependencies:
-
-bashCopy code
 
 `yarn nuke:modules`
 
