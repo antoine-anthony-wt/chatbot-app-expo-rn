@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "chatbot-app",
-    "slug": "chatbot-app",
+    "name": "chatbot-app-expo",
+    "slug": "chatbot-app-expo",
     "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,20 +11,24 @@
       [
         "expo-updates",
         {
-          "username": "Add your expo username here"
+          "username": "antoine-anthony-wt"
         }
       ],
-      ["expo-av"]
+      [
+        "expo-av"
+      ]
     ],
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "Add your bundle identifier here",
+      "bundleIdentifier": "com.antoineanthonywt.chatbotappexpo",
       "buildNumber": "7"
     },
     "android": {
@@ -32,21 +36,26 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff",
         "versionCode": 7
-      }
+      },
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ],
+      "package": "com.antoineanthonywt.chatbotappexpo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "Add your eas project id here"
-      }
-    },
     "runtimeVersion": {
       "policy": "sdkVersion"
     },
+    "extra": {
+      "eas": {
+        "projectId": "e7564112-6142-415d-ac10-251111e31ae9"
+      }
+    },
     "updates": {
-      "url": "Add your expo updates url here"
+      "url": "https://u.expo.dev/e7564112-6142-415d-ac10-251111e31ae9"
     }
   }
 }
