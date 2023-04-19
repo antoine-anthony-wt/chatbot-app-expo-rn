@@ -3,9 +3,9 @@
   "version": "1.0.1",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "start": "APP_ENV=development npx expo start",
-    "start:staging": "APP_ENV=staging npx expo start",
-    "start:production": "APP_ENV=production npx expo start --no-dev --minify",
+    "start": "APP_ENV=development npx expo start -c",
+    "start:staging": "APP_ENV=staging npx expo start -c",
+    "start:production": "APP_ENV=production npx expo start --no-dev --minify -c",
     "android": "npx expo start --android",
     "ios": "npx expo start --ios",
     "web": "npx expo start --web",
